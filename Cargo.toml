@@ -1,6 +1,4 @@
 [workspace]
-members= [
-  "f1nd"
-]
+members = ["counter", "f1nd"]
 
 [workspace.dependencies]
