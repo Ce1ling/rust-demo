@@ -1,6 +1,6 @@
 [workspace]
 members= [
-  "crates/*"
+  "f1nd"
 ]
 
 [workspace.dependencies]
