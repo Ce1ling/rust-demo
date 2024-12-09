@@ -7,6 +7,10 @@ name = "counter"
 version = "0.1.0"
 
 [[package]]
+name = "custom-macro"
+version = "0.1.0"
+
+[[package]]
 name = "f1nd"
 version = "0.1.0"
 

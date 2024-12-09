@@ -1,4 +1,4 @@
 [workspace]
-members = ["counter", "f1nd", "playground"]
+members = ["counter", "custom-macro", "f1nd", "playground"]
 
 [workspace.dependencies]
